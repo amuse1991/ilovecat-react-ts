@@ -1,0 +1,29 @@
+{
+  "name": "ilovecat-react-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amuse1991/ilovecat-react-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amuse1991/ilovecat-react-ts/issues"
+  },
+  "homepage": "https://github.com/amuse1991/ilovecat-react-ts#readme",
+  "dependencies": {
+    "@types/react": "^16.9.47",
+    "@types/react-dom": "^16.9.8",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
+}
